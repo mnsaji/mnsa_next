@@ -4,7 +4,7 @@ import React from 'react';
 import Navbar from '@/components/Navbar';
 import ParticleSystem from '@/components/ParticleSystem';
 import FloatingElements from '@/components/FloatingElements';
-import Enhanced3DBackground from '@/components/Enhanced3DBackground';
+// import Enhanced3DBackground from '@/components/Enhanced3DBackground';
 import { Calendar, User, ArrowRight, BookOpen, Zap } from 'lucide-react';
 import Image from 'next/image';
 

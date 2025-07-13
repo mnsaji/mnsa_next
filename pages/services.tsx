@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '../components/Navbar';
 import ParticleSystem from '../components/ParticleSystem';
 import FloatingElements from '../components/FloatingElements';
-import Enhanced3DBackground from '../components/Enhanced3DBackground';
+// import Enhanced3DBackground from '../components/Enhanced3DBackground';
 import { Code, Smartphone, TrendingUp, Search, Palette, Database, Cloud } from 'lucide-react';
 
 type Color = 'cyan' | 'purple' | 'emerald' | 'amber' | 'rose' | 'indigo';

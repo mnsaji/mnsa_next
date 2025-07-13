@@ -9,7 +9,7 @@ import PortfolioSection from '../components/PortfolioSection';
 import ContactSection from '../components/ContactSection';
 import ParticleSystem from '../components/ParticleSystem';
 import FloatingElements from '../components/FloatingElements';
-import Enhanced3DBackground from '../components/Enhanced3DBackground';
+// import Enhanced3DBackground from '../components/Enhanced3DBackground';
 
 export default function HomePage() {
    return (

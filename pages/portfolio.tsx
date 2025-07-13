@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Navbar from '../components/Navbar';
 import ParticleSystem from '../components/ParticleSystem';
 import FloatingElements from '../components/FloatingElements';
-import Enhanced3DBackground from '../components/Enhanced3DBackground';
+// import Enhanced3DBackground from '../components/Enhanced3DBackground';
 import { ExternalLink, Github, Filter, Star, Award, Zap } from 'lucide-react';
 
 const Portfolio = () => {

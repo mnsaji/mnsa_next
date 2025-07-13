@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '@/components/Navbar';
 import ParticleSystem from '@/components/ParticleSystem';
 import FloatingElements from '@/components/FloatingElements';
-import Enhanced3DBackground from '@/components/Enhanced3DBackground';
+// import Enhanced3DBackground from '@/components/Enhanced3DBackground';
 import {
   Users,
   Target,
