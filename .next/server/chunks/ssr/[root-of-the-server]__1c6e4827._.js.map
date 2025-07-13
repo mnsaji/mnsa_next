@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///home/sachcoder/Downloads/mnsa_next_js/pages/_app.tsx"],"sourcesContent":["// pages/_app.tsx\nimport type { AppProps } from 'next/app';\n// Agar aap alias use kar rahe ho to ensure karo tsconfig me defined hai, warna relative path use karo:\nimport '@/styles/globals.css';  // Must match tsconfig paths\nexport default function App({ Component, pageProps }: AppProps) {\n      console.log(\"Running _app.tsx\");\n   return <Component {...pageProps} />;\n}\n"],"names":[],"mappings":"AAAA,iBAAiB;;;;;;;AAIF,SAAS,IAAI,EAAE,SAAS,EAAE,SAAS,EAAY;IACxD,QAAQ,GAAG,CAAC;IACf,qBAAO,qKAAC;QAAW,GAAG,SAAS;;;;;;AAClC","debugId":null}}]
+}
